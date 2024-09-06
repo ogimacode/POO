@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="346.0" prefWidth="289.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.exercicio9.ProductController">
+   <children>
+      <Label layoutX="70.0" layoutY="69.0" text="sku" />
+      <Label layoutX="64.0" layoutY="105.0" text="name" />
+      <Label layoutX="66.0" layoutY="148.0" text="price" />
+      <Label layoutX="57.0" layoutY="192.0" text="quantity" />
+      <TextField fx:id="txtSku" layoutX="114.0" layoutY="65.0" />
+      <TextField fx:id="txtName" layoutX="114.0" layoutY="101.0" />
+      <TextField fx:id="txtPrice" layoutX="114.0" layoutY="144.0" />
+      <TextField fx:id="txtQuantity" layoutX="114.0" layoutY="188.0" />
+      <Button fx:id="saveButton" layoutX="56.0" layoutY="238.0" mnemonicParsing="false" onAction="#saveChanges" text="salvar" />
+      <Button fx:id="closeButton" layoutX="189.0" layoutY="238.0" mnemonicParsing="false" onAction="#closeWindow" text="fechar" />
+      <Button fx:id="updateButton" layoutX="118.0" layoutY="238.0" mnemonicParsing="false" onAction="#updateChanges" text="update" />
+   </children>
+</AnchorPane>

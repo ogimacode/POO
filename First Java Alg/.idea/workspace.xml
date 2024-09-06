@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bd29d9a-3546-4d29-90dc-b6cdc6718840" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex07.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex08.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex09.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list01/Ex09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list02/Ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list02/Ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list02/Ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/main/java/br/edu/ifsp/list02/Ex06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-nivelamento/src/test/java/br/edu/ifsp/list01/Ex06Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/listas-nivelamento/src/test/java/br/edu/ifsp/list01/Ex06Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/listas-nivelamento" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2lg6Y9ErBGHpusD2TbDCphD08zY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Users/mathe/Prog/POO/Meeting",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bd29d9a-3546-4d29-90dc-b6cdc6718840" name="Changes" comment="" />
+      <created>1725589416582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725589416582</updated>
+      <workItem from="1725589417600" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
